@@ -8,6 +8,7 @@
 
 ![image](https://github.com/Ramsden1/my_study/blob/main/resources/image-20210422190113749.png)
 
+[insertion sort](https://github.com/Ramsden1/Algorithm-and-Data-structure/blob/main/algorithm/code/insertion_sort.py)
 ```python
 def insertion_sort(array):
     for j in range(1, len(array)):
