@@ -21,7 +21,7 @@ def insertion_sort(array):
 
 a = insertion_sort([5,2,4,6,1,3])
 print(a)
->>>
+
 
 ```
 
