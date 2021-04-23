@@ -1,2 +1,2 @@
 # my_study
-This is only for my study.
+This is implementation of introduction to algorithm third edition.
